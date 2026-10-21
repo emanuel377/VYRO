@@ -1,0 +1,215 @@
+{
+  "terminos": {
+    "title": "Términos y condiciones",
+    "version": "0.2-borrador",
+    "effectiveAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "notice": "VYRO — Digital Studio (nombre comercial provisional). Borrador para revisión profesional. La identidad legal y el domicilio del prestador están pendientes; este texto no debe publicarse como definitivo.",
+    "sections": [
+      {
+        "id": "identidad",
+        "title": "1. Identidad y alcance",
+        "paragraphs": [
+          "VYRO — Digital Studio es un nombre comercial provisional para un proyecto de diseño y desarrollo web en Costa Rica. Identidad legal, número de identificación y domicilio: pendientes de completar antes de publicar.",
+          "Estas condiciones describen el uso informativo de este sitio. La prestación de servicios se pactará, si corresponde, en una propuesta y contrato específicos."
+        ]
+      },
+      {
+        "id": "cotizaciones",
+        "title": "2. Cotizaciones y contrato",
+        "paragraphs": [
+          "Enviar una consulta o solicitar una cotización no crea un contrato ni obliga a contratar. Una propuesta futura deberá indicar alcance, entregables, precio, calendario, revisiones, criterios de aceptación y forma de pago.",
+          "El trabajo comienza únicamente tras la aceptación expresa de la propuesta y las condiciones específicas. Ninguna tarifa ni plazo se ofrece como definitivo en este sitio."
+        ]
+      },
+      {
+        "id": "colaboracion",
+        "title": "3. Materiales y responsabilidades",
+        "paragraphs": [
+          "El cliente deberá proporcionar contenidos, accesos y aprobaciones necesarios, y confirmar que tiene derecho a usar los textos, marcas e imágenes entregados. El estudio deberá usar esos materiales solo conforme al contrato y con medidas razonables de seguridad.",
+          "Los cambios de alcance, revisiones adicionales y retrasos por falta de materiales se acordarán antes de ejecutarse."
+        ]
+      },
+      {
+        "id": "terceros",
+        "title": "4. Dominio, alojamiento y mantenimiento",
+        "paragraphs": [
+          "La titularidad, contratación, renovación y costos de dominio, alojamiento, licencias y otros servicios de terceros se definirán por escrito en cada propuesta. No se contrata ni compra nada desde esta web.",
+          "El mantenimiento y soporte, si se contratan, tendrán alcance y condiciones separados."
+        ]
+      },
+      {
+        "id": "propiedad",
+        "title": "5. Propiedad intelectual",
+        "paragraphs": [
+          "La cesión o licencia del trabajo entregado, código, diseño y recursos de terceros se establecerá en el contrato específico. Las licencias de fuentes, fotografías, bibliotecas y otros recursos deberán respetarse.",
+          "Los contenidos y demos de esta web no autorizan su reutilización comercial sin permiso, salvo los derechos otorgados por las licencias de terceros aplicables."
+        ]
+      },
+      {
+        "id": "cancelacion",
+        "title": "6. Cancelaciones, garantías y reclamaciones",
+        "paragraphs": [
+          "Cancelaciones, anticipos, trabajo realizado, garantías y eventuales reembolsos se revisarán según el contrato y la normativa aplicable. Consultá el borrador de política de reembolsos; no limita derechos irrenunciables del consumidor.",
+          "Para consultas o reclamaciones escribí a ev868993@gmail.com. Se acusará recibo y se responderá por el mismo medio cuando sea posible; el plazo operativo está pendiente de definir."
+        ]
+      },
+      {
+        "id": "ley",
+        "title": "7. Legislación y contacto",
+        "paragraphs": [
+          "Se prevé la aplicación de la legislación de Costa Rica, sin afectar derechos imperativos de las personas consumidoras. Antes de contratar se entregarán los datos legales completos del prestador.",
+          "Contacto provisional: ev868993@gmail.com y WhatsApp +506 7210-0655."
+        ]
+      }
+    ]
+  },
+  "privacidad": {
+    "title": "Política de privacidad",
+    "version": "0.2-borrador",
+    "effectiveAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "notice": "VYRO — Digital Studio (nombre comercial provisional). Borrador para revisión profesional. Identidad legal del responsable, proveedores de alojamiento y plazos de conservación finales pendientes antes de publicar.",
+    "sections": [
+      {
+        "id": "responsable",
+        "title": "1. Responsable y contacto",
+        "paragraphs": [
+          "VYRO — Digital Studio es un nombre comercial provisional de un emprendimiento en Costa Rica. La identidad legal y domicilio del responsable están pendientes de completar.",
+          "Para consultas de privacidad y ejercicio de derechos: ev868993@gmail.com."
+        ]
+      },
+      {
+        "id": "datos",
+        "title": "2. Datos que solicitamos",
+        "paragraphs": [
+          "En el formulario de cotización recogemos nombre, correo o WhatsApp, tipo de proyecto y descripción; nombre del negocio y presupuesto son opcionales. No solicitamos cédula, información bancaria ni datos sensibles.",
+          "El servidor registra la fecha UTC, la versión y huella del texto de privacidad aceptado y un identificador interno de la solicitud. No almacena automáticamente IP completa ni huellas digitales."
+        ]
+      },
+      {
+        "id": "finalidad",
+        "title": "3. Finalidad y autorización",
+        "paragraphs": [
+          "Usamos los datos para responder la consulta y preparar una eventual cotización. La casilla independiente del formulario registra una autorización específica para ese fin. No se utiliza para publicidad ni se presume aceptación de un contrato.",
+          "La constancia opcional de lectura de términos se registra separadamente si la persona la marca."
+        ]
+      },
+      {
+        "id": "destinatarios",
+        "title": "4. Proveedores y transferencias",
+        "paragraphs": [
+          "El entorno local actual guarda las solicitudes en una base SQLite local. No hay correo automatizado, analítica ni publicidad configurados. Al contratar alojamiento u otros proveedores se actualizarán esta política y los acuerdos correspondientes, incluida cualquier transferencia internacional.",
+          "Si la persona elige WhatsApp, el mensaje solo se enviará cuando confirme la acción en esa aplicación, sujeta a las condiciones de su proveedor."
+        ]
+      },
+      {
+        "id": "conservacion",
+        "title": "5. Conservación y seguridad",
+        "paragraphs": [
+          "Los plazos de conservación específicos deberán definirse antes del lanzamiento según la finalidad, posibles obligaciones y defensa de reclamaciones. El servidor limita el acceso a registros, valida entradas y conserva eventos de autorización de forma añadida.",
+          "No existe garantía absoluta de seguridad. Se revisarán el alojamiento, copias de seguridad, permisos y respuesta a incidentes antes de publicación."
+        ]
+      },
+      {
+        "id": "derechos",
+        "title": "6. Derechos y retirada",
+        "paragraphs": [
+          "Podés solicitar acceso, rectificación, actualización o supresión de tus datos, y retirar la autorización para usos opcionales, mediante ev868993@gmail.com. La retirada también puede registrarse con el código entregado al enviar la cotización.",
+          "La retirada no implica borrar automáticamente evidencia que deba conservarse por una razón legal válida. Cada solicitud será evaluada conforme a la Ley 8968 y su reglamento."
+        ]
+      },
+      {
+        "id": "cookies",
+        "title": "7. Almacenamiento local y cambios",
+        "paragraphs": [
+          "Esta versión no incorpora cookies de analítica o publicidad. La demo de tienda utiliza almacenamiento local del navegador para conservar temporalmente el carrito; podés borrarlo desde el navegador. Ver política de cookies.",
+          "La versión y fecha de este aviso se muestran arriba. Los cambios relevantes se documentarán en una versión nueva."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "title": "Política de cookies y almacenamiento local",
+    "version": "0.2-borrador",
+    "effectiveAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "notice": "VYRO — Digital Studio (nombre comercial provisional). Inventario técnico de la versión local. Debe repetirse después de elegir alojamiento y antes de publicar.",
+    "sections": [
+      {
+        "id": "actual",
+        "title": "1. Tecnologías actuales",
+        "paragraphs": [
+          "La web pública no establece cookies de analítica, marketing ni personalización opcional. Por ello no se muestra un banner de consentimiento innecesario.",
+          "La demo NORTHLINE usa localStorage para mantener un carrito ficticio en este navegador. Ese contenido no se transmite al servidor y puede eliminarse vaciando el carrito o los datos del sitio."
+        ]
+      },
+      {
+        "id": "administracion",
+        "title": "2. Administración",
+        "paragraphs": [
+          "Si se configura el acceso administrativo, el servidor establece una cookie de sesión necesaria, HttpOnly y SameSite=Strict, con duración máxima de 30 minutos. Solo se usa para proteger el panel."
+        ]
+      },
+      {
+        "id": "futuro",
+        "title": "3. Cambios futuros",
+        "paragraphs": [
+          "Si se incorporan analítica, mapas, videos externos, chat o publicidad, se actualizará el inventario y se evaluará si es necesario pedir consentimiento antes de activarlos.",
+          "Contacto: ev868993@gmail.com."
+        ]
+      }
+    ]
+  },
+  "reembolsos": {
+    "title": "Política de cancelaciones y reembolsos",
+    "version": "0.2-borrador",
+    "effectiveAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "notice": "VYRO — Digital Studio (nombre comercial provisional). Borrador sujeto a revisión jurídica. Por ahora no hay contratación ni pagos en línea.",
+    "sections": [
+      {
+        "id": "consulta",
+        "title": "1. Consultas sin contrato",
+        "paragraphs": [
+          "Solicitar información o una cotización no genera cargo, anticipo ni obligación de contratar."
+        ]
+      },
+      {
+        "id": "inicio",
+        "title": "2. Anticipos y proyecto no iniciado",
+        "paragraphs": [
+          "Los anticipos, condiciones de inicio y procedimiento de cancelación deberán figurar en la propuesta aceptada. Si el trabajo no ha comenzado, se evaluará la devolución conforme al contrato y la normativa aplicable, descontando únicamente conceptos legítimos y demostrables cuando proceda."
+        ]
+      },
+      {
+        "id": "avance",
+        "title": "3. Trabajo parcial o entregado",
+        "paragraphs": [
+          "Si el proyecto ya comenzó, se documentará el avance, los entregables y costos efectivamente incurridos antes de proponer una liquidación. Si fue entregado, se atenderán las garantías y derechos legales que correspondan. No se aplica una prohibición absoluta de reembolsos."
+        ]
+      },
+      {
+        "id": "terceros",
+        "title": "4. Mantenimiento y terceros",
+        "paragraphs": [
+          "La cancelación de mantenimiento se regirá por el acuerdo específico. Dominios, alojamiento, licencias y otros servicios de terceros pueden estar sujetos a reglas propias; sus costos y titularidad deben comunicarse antes de contratar."
+        ]
+      },
+      {
+        "id": "retracto",
+        "title": "5. Derecho de retracto",
+        "paragraphs": [
+          "La Ley 7472 y su reglamento contemplan supuestos de retracto en ventas fuera del establecimiento y transacciones electrónicas. Su aplicación a un servicio concreto, el cómputo y posibles excepciones requieren valoración jurídica previa; no se presume una exclusión general por ser un servicio digital personalizado."
+        ]
+      },
+      {
+        "id": "reclamaciones",
+        "title": "6. Reclamaciones",
+        "paragraphs": [
+          "Escribí a ev868993@gmail.com con referencia del proyecto y motivo. Se confirmará recepción y se evaluará la solicitud con el contrato y la normativa aplicable. El plazo concreto de respuesta comercial está pendiente de definir antes de publicación."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Desarrollo local: habilitar indexación solo después de la revisión y autorización de lanzamiento.
