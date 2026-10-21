@@ -200,5 +200,5 @@ export const server = http.createServer(async (req, res) => {
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const port = Number(process.env.PORT || 4173);
-  server.listen(port, process.env.HOST || '127.0.0.1', () => console.log(`VYRO local: http://${process.env.HOST || '127.0.0.1'}:${port}`));
+  server.listen(port, process.env.HOST || '0.0.0.0', () => console.log(`VYRO local: http://${process.env.HOST || '127.0.0.1'}:${port}`));
 }
